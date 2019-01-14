@@ -10,6 +10,6 @@
 ## [EN] Useful tools: 
 
 ### Download YT wideo backup copy with console and "youtube-dl" package at Linux
-1. Open terminal/console [ctrl + alt + t]
+1. Open terminal/console [ctrl + alt + t] *Ubuntu 18.04. LTS*
 2. Install package [sudo apt-get install youtube-dl]
 3. Download YT video backup copy [youtube-dl URL_TO_VIDEO]
